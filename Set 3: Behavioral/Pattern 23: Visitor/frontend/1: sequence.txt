@@ -1,0 +1,8 @@
+Client Application
+
+(External - Car)
+
+PrintPartsVisitor
+TotalPriceVisitor
+
+IVisitor

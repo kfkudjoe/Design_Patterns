@@ -1,0 +1,7 @@
+Client Application
+
+IIterator
+Iterator
+
+IAggregate
+Aggregate

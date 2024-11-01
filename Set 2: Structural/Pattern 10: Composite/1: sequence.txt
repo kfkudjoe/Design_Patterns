@@ -1,0 +1,7 @@
+Client Application
+
+IComponent
+
+File
+Folder
+

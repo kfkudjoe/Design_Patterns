@@ -1,0 +1,10 @@
+Client Application
+
+ICubeA
+ICubeB
+
+CubeA
+CubeB
+
+CubeBAdapter
+

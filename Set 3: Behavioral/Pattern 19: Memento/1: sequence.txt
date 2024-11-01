@@ -1,0 +1,6 @@
+Client Application
+
+CareTaker
+Game Character
+
+Memento

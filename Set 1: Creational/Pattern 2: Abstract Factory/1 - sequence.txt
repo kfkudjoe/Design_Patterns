@@ -1,0 +1,15 @@
+IFurnitureFactory
+Furniture Factory
+Client Application
+
+ChairFactory
+    IChair
+        SmallChair
+        MediumChair
+        BigChair
+
+TableFactory
+    ITable
+        SmallTable
+        MediumTable
+        BigTable

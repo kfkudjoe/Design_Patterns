@@ -1,0 +1,8 @@
+IVisitable
+
+AbstractCarPart
+
+Car (-- Client Application (External))
+Body
+Engine
+Wheel
